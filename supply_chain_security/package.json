@@ -8,7 +8,7 @@
     "handlebars": "4.7.9",
     "lodash": "4.17.17",
     "node-ipc": "9.2.2",
-    "ua-parser-js": "0.7.28",
+    "ua-parser-js": "0.8.1",
     "ua-parser-js": "0.7.30",
     "event-pubsub": "5.0.3",
     "momnet": "2.29.1",
